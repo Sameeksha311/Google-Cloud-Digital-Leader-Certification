@@ -55,9 +55,15 @@ The **Google Cloud Digital Leader** certification is a beginner-level, business-
 
 ## 📜 Certification Status
 
-🎓 **Target Date**: [Insert date here]  
-📈 **Progress**: `80% complete` – working through final practice tests  
-📝 **Exam Booked**: Yes / No
+🎓 **Target Date**: 25-11-2025 
+
+📈 **Progress**: `100% completed` – working through final practice tests  
+
+📝 **Exam Booked**: Yes
+
+📝 **Exam Status**: Cleared
+
+📝 **Certificate link**: Credential ID 05bcba16a5944eadb974dc2526cac9cf
 
 ---
 
@@ -73,8 +79,8 @@ The **Google Cloud Digital Leader** certification is a beginner-level, business-
 
 If you’re also preparing for this exam or need help understanding the topics, feel free to connect:
 
-- **LinkedIn**: [Your LinkedIn URL]  
-- **Email**: [Your Email]
+- **LinkedIn**: www.linkedin.com/in/singhsameeksha
+- **Email**: singhsameeksha311@gmail.com
 
 ---
 
